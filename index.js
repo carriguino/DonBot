@@ -37,4 +37,4 @@ client.on('message', message => {
 })
 
 
-client.login(proccess.env.token);
+client.login(token);
