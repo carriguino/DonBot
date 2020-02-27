@@ -6,9 +6,10 @@
   "scripts": {
     "start": "node bot.js"
   },
-  "author": "",
+  "author": "Carrigan Reilly",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.5.1"
+    "request": "2.81.0"
   }
 }
